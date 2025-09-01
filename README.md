@@ -1,7 +1,7 @@
 ## `CRaFT: Conditional Random Field Toolbox`
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddafc91e-e1f1-4ac1-a246-fe57a332498a" width="24%" style="margin-right: 10px;" />  
+  <img src="https://github.com/user-attachments/assets/ddafc91e-e1f1-4ac1-a246-fe57a332498a" width="24%" />  
   <img src="https://github.com/user-attachments/assets/4e410bbb-3002-4a41-a439-ff5e00d68502" width="65%" />
 </p>
 
