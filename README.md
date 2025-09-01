@@ -12,32 +12,32 @@ CRaFT integrates advanced numerical methods into a single, modular framework, ma
 
 ### `Key Features`
 
-Exact reproduction of measured data
+`Exact reproduction of measured data`
 Ensures realizations of CRFs strictly pass through prescribed measurement locations.
 
-High computational efficiency
+`High computational efficiency`
 Requires only Nyström-based covariance interpolation and a single conditional covariance decomposition.
 
-Accurate spatial variability modeling
+`Accurate spatial variability modeling`
 Karhunen–Loève expansion (KLE) captures dominant modes of variability while preserving correlation structures.
 
-Versatile and dimension-independent
+`Versatile and dimension-independent`
 Supports 1D, 2D, and 3D domains with customizable covariance kernels, correlation lengths, and field statistics.
 
-Modular and extensible
+`Modular and extensible`
 Built in Matlab with clear structure, allowing easy adaptation and integration into uncertainty quantification workflows.
 
 ### `Methodology`
 
 CRaFT integrates three core components in a streamlined pipeline:
 
-Kriging interpolation
+`Kriging interpolation`
 Estimates the mean field of CRFs from observed data, ensuring consistency at measurement locations.
 
-Nyström approximation
+`Nyström approximation`
 Efficiently constructs interpolated covariance matrices, combined with unconditional covariance matrices to yield conditional covariance matrices.
 
-Karhunen–Loève expansion (KLE)
+`Karhunen–Loève expansion (KLE)`
 Generates random realizations directly from conditional covariance matrices, producing CRFs that both honor measured data and capture spatial variability.
 
 ### `Function Listing`
@@ -56,9 +56,7 @@ Generates random realizations directly from conditional covariance matrices, pro
 
 `Measurement_data` – measured data (2 × n_Set)
 
-row 1: indices of measured points
-
-row 2: observed values
+     row 1: indices of measured points;   row 2: observed values
 
 ### `Outputs`
 
