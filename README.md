@@ -1,8 +1,8 @@
 ## `CRaFT: Conditional Random Field Toolbox`
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ddafc91e-e1f1-4ac1-a246-fe57a332498a" width="45%" />
-  <img src="https://github.com/user-attachments/assets/4e410bbb-3002-4a41-a439-ff5e00d68502" width="45%" />
+  <img src="https://github.com/user-attachments/assets/ddafc91e-e1f1-4ac1-a246-fe57a332498a" width="15%" />
+  <img src="https://github.com/user-attachments/assets/4e410bbb-3002-4a41-a439-ff5e00d68502" width="65%" />
 </p>
 
 `CRaFT` (Conditional Random Field Toolbox) is a Matlab-based package for efficient simulation of conditional random fields (CRFs).
